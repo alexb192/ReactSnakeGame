@@ -1,0 +1,22 @@
+.div
+{
+    color:white;
+}
+
+.SnakeGameContainer
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+table, tr, td {
+    background-color: black;
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 22px;
+}
